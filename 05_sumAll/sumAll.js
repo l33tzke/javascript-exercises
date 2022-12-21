@@ -1,4 +1,6 @@
 const sumAll = function() {
+    let begin = arguments[0];
+    let end = arguments[1];
 
 };
 
